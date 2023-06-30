@@ -65,6 +65,17 @@
     color: var(--color-light);
 }
 
+#about h2{
+    padding-bottom: 1.5rem;
+}
+
+p{
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 1.5em;
+    text-align: justify;
+}
+
 /* =================== MEDIA QUERIES (MEDIUM DEVICES) =================== */
 @media screen and  (max-width: 1024px) {
     .about_container{
@@ -74,7 +85,7 @@
 
     .about_me {
         width: 50%;
-        margin: 2rem auto 4rem;
+        margin: 0 auto 4rem;
     }
 
     .about_content p{
@@ -96,6 +107,7 @@
 
     .about_content{
         text-align: center;
+        padding: 0 1.8rem;
     }
 
     .about_content p{
