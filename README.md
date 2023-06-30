@@ -1,5 +1,5 @@
 ## Homero Costa Medeiros
-desenvolvedor Front-end
+<p>Desenvolvedor Front-end</p>
 
 <div float="left">
   <img src="https://github.com/Homeromedeiros/portfolio-website/blob/master/src/assets/homero_about.jpg" width="200";/>
