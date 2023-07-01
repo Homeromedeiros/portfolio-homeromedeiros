@@ -2,7 +2,7 @@
 <p>Desenvolvedor Front-end</p>
 
 <div float="left">
-  <img src="https://github.com/Homeromedeiros/portfolio-website/blob/master/src/assets/homero_about.jpg" width="200";/>
+  <img src="https://github.com/Homeromedeiros/portfolio-homeromedeiros/blob/master/src/assets/homero_about.jpg" width="200";/>
 </div>
 
 #
@@ -13,5 +13,4 @@
   <!--
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   -->
-</div>
 </div>
