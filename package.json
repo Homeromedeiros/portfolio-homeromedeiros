@@ -16,9 +16,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "start": "react-scripts start",
     "dev": "node index.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
