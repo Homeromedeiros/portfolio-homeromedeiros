@@ -29,6 +29,23 @@ footer a{
     margin-bottom: 4rem;
     color: var(--color-bg);
 }
+/* ========== HEADER SOCIALS ============ */
+.footer_socials{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+    position: absolute;
+    background: red;
+}
+
+.footer_socials::after{
+    content: '';
+    width: 1px;
+    height: 2rem;
+    background: var(--color-primary);
+}
+
 
 /* =================== MEDIA QUERIES (MEDIUM DEVICES) =================== */
 

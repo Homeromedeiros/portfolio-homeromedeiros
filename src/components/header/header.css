@@ -1,6 +1,6 @@
 header {
     height: 100vh;
-    padding-top: 7rem;
+    padding-top: 10rem;
     overflow: hidden;
 }
 
@@ -9,6 +9,41 @@ header {
     height: 100%;
     position: relative;
 }
+
+.header_container h1{
+    opacity: 0;
+    animation: fadeInText 5s 4s infinite;
+}
+@keyframes fadeInText{
+    0%{
+        opacity: 0;
+    }50%{
+        opacity: 1;
+    }100%{
+        opacity: 0;
+    }
+} 
+
+/* .name::after{
+    content: '';
+    position: absolute;
+    left: 250px;
+    background: var(--color-bg-variant);
+    width: 80%;
+    height: 10%;
+    border-left: 2px solid var(--color-primary);
+    animation: typing 4s steps(15) infinite;
+}
+
+@keyframes typing{
+    40%, 60%{
+        left: 75%;
+    }100%{
+        left: 20;
+    }
+} */
+
+
 
 /* ========== CTA ============ */
 .cta {
@@ -19,14 +54,14 @@ header {
 }
 
 /* ========== HEADER SOCIALS ============ */
-.header_socials {
+/* .header_socials {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     gap: 0.8rem;
     position: absolute;
     left: 0;
-    bottom: 3rem;
+    bottom: 0;
 }
 
 .header_socials::after {
@@ -34,7 +69,7 @@ header {
     width: 1px;
     height: 2rem;
     background: var(--color-primary);
-}
+} */
 
 /* ========== HEADER SOCIALS ============ */
 .me {
@@ -52,17 +87,16 @@ header {
 /* ========== SCROLL DOWN ============ */
 .scroll_down {
     position: absolute;
-    right: -2.3rem;
-    bottom: 5rem;
-    transform: rotate(90deg);
+    padding-top: 5rem;
     font-weight: 300;
-    font-size: 0.9rem;
+    font-size: 1.7rem;
 }
 
 /* =================== MEDIA QUERIES (MEDIUM DEVICES) =================== */
 @media screen and  (max-width: 1024px) {
     header {
-        height: 70vh;
+        height: 80vh;
+        padding-top: 10rem;
     }
 }
 
