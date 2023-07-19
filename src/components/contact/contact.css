@@ -5,6 +5,10 @@
     gap: 12%;
 }
 
+#contact h2{
+    padding-bottom: 1.5em;
+}
+
 .contact_options{
     display: flex;
     flex-direction: column;

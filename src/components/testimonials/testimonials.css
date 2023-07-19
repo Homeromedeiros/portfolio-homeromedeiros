@@ -3,6 +3,10 @@
     padding-bottom: 4rem;
 }
 
+#testimonials h2{
+    padding-bottom: 1.5em;
+}
+
 .client_avatar{
     width: 6rem;
     aspect-ratio: 1/1;

@@ -1,8 +1,8 @@
 footer{
     background: var(--color-primary);
     text-align: center;
-    padding: 3rem 0;
-    font-size: 0.9rem;
+    padding: 2rem 0;
+    font-size: 0.8rem;
     margin-top: 7rem;
 }
 
@@ -11,9 +11,9 @@ footer a{
 }
 
 .footer_logo{
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     font-weight: 500;
-    margin-bottom: 2rem;
+    margin-bottom: 1.2rem;
     display: inline-block;
 }
 
@@ -25,20 +25,24 @@ footer a{
     margin: 0 auto 3rem;
 }
 
-.footer_copyright{
-    margin-bottom: 4rem;
-    color: var(--color-bg);
-}
-/* ========== HEADER SOCIALS ============ */
 .footer_socials{
     display: flex;
-    flex-direction: row;
-    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-left: 1em;
+    font-size: 1.5em;
     gap: 1rem;
-    position: absolute;
-    background: red;
 }
 
+.footer_copyright{
+    margin-bottom: 5rem;
+    color: var(--color-bg);
+}
+
+
+
+
+/* ========== HEADER SOCIALS ============ */
 .footer_socials::after{
     content: '';
     width: 1px;
