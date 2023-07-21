@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/portfolio-homeromedeiros/static/css/main.3c998bd3.css",
-    "main.js": "/portfolio-homeromedeiros/static/js/main.210b32ca.js",
+    "main.css": "/portfolio-homeromedeiros/static/css/main.82da420a.css",
+    "main.js": "/portfolio-homeromedeiros/static/js/main.c2828652.js",
     "static/media/portfolio_4.png": "/portfolio-homeromedeiros/static/media/portfolio_4.3478f44b41ba4f6cb61c.png",
     "static/media/portfolio_3.png": "/portfolio-homeromedeiros/static/media/portfolio_3.85536ad38b3805c762fd.png",
     "static/media/homero_perfil.jpg": "/portfolio-homeromedeiros/static/media/homero_perfil.8cd4e937f4890cc4344c.jpg",
     "static/media/homero_about.jpg": "/portfolio-homeromedeiros/static/media/homero_about.5dfc76f34505ebdc21a1.jpg",
-    "static/media/cv_homero.pdf": "/portfolio-homeromedeiros/static/media/cv_homero.8bab9907ca4ad570e577.pdf",
+    "static/media/cv_homero.pdf": "/portfolio-homeromedeiros/static/media/cv_homero.4d03f1aa6f9ca23a6273.pdf",
     "static/media/portfolio_1.jpg": "/portfolio-homeromedeiros/static/media/portfolio_1.3e41409831067c90a8f4.jpg",
     "static/media/avatar_1.jpg": "/portfolio-homeromedeiros/static/media/avatar_1.72be118bba1b25be8661.jpg",
     "static/media/portfolio_2.jpg": "/portfolio-homeromedeiros/static/media/portfolio_2.7c8b88481fa103624495.jpg",
@@ -14,11 +14,11 @@
     "static/media/avatar_2.jpg": "/portfolio-homeromedeiros/static/media/avatar_2.4a07e813bb03e773d8ed.jpg",
     "static/media/avatar_3.jpg": "/portfolio-homeromedeiros/static/media/avatar_3.4f738318eae8fca2d65c.jpg",
     "index.html": "/portfolio-homeromedeiros/index.html",
-    "main.3c998bd3.css.map": "/portfolio-homeromedeiros/static/css/main.3c998bd3.css.map",
-    "main.210b32ca.js.map": "/portfolio-homeromedeiros/static/js/main.210b32ca.js.map"
+    "main.82da420a.css.map": "/portfolio-homeromedeiros/static/css/main.82da420a.css.map",
+    "main.c2828652.js.map": "/portfolio-homeromedeiros/static/js/main.c2828652.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c998bd3.css",
-    "static/js/main.210b32ca.js"
+    "static/css/main.82da420a.css",
+    "static/js/main.c2828652.js"
   ]
 }
