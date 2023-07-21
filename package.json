@@ -44,7 +44,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^5.0.0nod"
+    "gh-pages": "^5.0.0"
   },
   "description": "<p>Desenvolvedor Front-end</p>",
   "main": "vite.config.js",
