@@ -65,22 +65,22 @@ const Experience = () => {
             <article className='experience_details'>
               <BsCheckCircleFill className='.experience_details-icon'/>
               <div>
-                <h4>Inventor</h4>
-                <small className='text-light'>Avançado</small>
+                <h4>Versionamento</h4>
+                <small className='text-light'>Intermediário</small>
               </div>
             </article>
             <article className='experience_details'>
               <BsCheckCircleFill className='.experience_details-icon'/>
               <div>
                 <h4>C++</h4>
-                <small className='text-light'>Básico</small>
+                <small className='text-light'>Intermediário</small>
               </div>
             </article>
             <article className='experience_details'>
               <BsCheckCircleFill className='.experience_details-icon'/>
               <div>
                 <h4>VB.Net</h4>
-                <small className='text-light'>Básico</small>
+                <small className='text-light'>Intermediário</small>
               </div>
             </article>
             <article className='experience_details'>

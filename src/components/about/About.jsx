@@ -23,7 +23,7 @@ const About = () => {
             <article className='about_card'>
               <FaAward className='about_icon' />
               <h5>Experiêcnia</h5>
-              <small>Mais de 4 anos de experiência com CAD</small>
+              <small>Mais de 4 anos de experiência na área tecnológica</small>
             </article>
 
             <article className='about_card'>
@@ -41,7 +41,7 @@ const About = () => {
 
           <p>Sou formado em Engenharia Mecatrônica (Controle e Automação) no ano 2017 na UFRN. Atualmente trabalho com sistemas CADs prestando serviços internacionais, onde atuo a mais de 4 anos. Tenho experiência com: SolidWorks, Inventor, AutoCAD, entre outros.
 
-          Possuo conhecimentos com pacote office e em algumas linguagens de programação, tais como: HTML, CSS, JavaScript, React, versionamento git e github, Java, VB.net, MySQL e PHP. Na Universidade desenvolvi projetos eletrônicos através do microcontrolador Arduino, um dos destaques foi uma maquete de um estacionamento inteligente e simulador para cirurgia laparoscópica, participei também de uma Iniciação Científica e na direção do Centro Acadêmico do curso.</p>
+          Possuo conhecimentos com pacote office e em algumas linguagens de programação, tais como: HTML, CSS, JavaScript, React, versionamento git e github, C++, Java, VB.net, MySQL e PHP. Na Universidade desenvolvi projetos eletrônicos utilizando o microcontrolador Arduino, participei também de uma Iniciação Científica e na direção do Centro Acadêmico do curso ambos voluntário.</p>
 
           <a href="#contact" className='btn btn-primary'>Vamos conversar</a>
         </div>
